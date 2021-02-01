@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Davi Vieira</h1>
 <h3 align="center">Full-Stack Developer 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davivieira2210&label=views&color=ff0019&style=flat-square" alt="davivieira2210" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

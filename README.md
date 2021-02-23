@@ -17,7 +17,7 @@
 - 💻 You can also find me on [LinkedIn](https://www.linkedin.com/in/davi-vieira-4a8280161/)
 - 🌎 I live in SP/Brasil.
 
-<p align = center>
+<p align = "center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davivieira2210&show_icons=true&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="davivieira2210" alt="davivieira2210" alt = "davivieira221" />
 

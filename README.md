@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Davi Vieira</h1>
-<h3 align="center">Full-Stack Developer 🚀</h3>
+<h1 align="center">Hello, I'm Davi Vieira 🚀</h1>
+<h3 align="center"></h3>
 
 
 
@@ -19,7 +19,7 @@
 
 <p align="center">
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davisvieira&show_icons=true&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="davisvieira" alt="davisvieira" alt = "davisvieira" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davisvieira&show_icons=true&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="davisvieira" alt="davisvieira" alt = "davisvieira">
 
 
       

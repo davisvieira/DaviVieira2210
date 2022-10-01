@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Davi Vieira 🚀</h1>
+<h1 align="center">Hello, I'm Davi Vieira</h1>
 <h3 align="center"></h3>
 
 
